@@ -335,8 +335,6 @@ class Game:
                                        "stakes). If they contained copper, silver and gold, "
                                        "you would receive $13 ($1 + $2 + $3) and so on.")
 
-    #def stats(self, calc_history):
-
 
 class Help:
     def __init__(self, partner):
